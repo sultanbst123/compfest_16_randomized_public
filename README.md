@@ -1,2 +1,5 @@
 # compfest_16_randomized
-this is a repository all about compfest 16 competition from team randomized
+
+<p align="center">
+ <img src="https://github.com/sultanbst123/compfest_16_randomized_public/blob/main/employee_burnout_architecture.jpg"><i> Our general platform architecture </i>
+</p>
