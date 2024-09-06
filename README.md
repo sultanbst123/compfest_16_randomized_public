@@ -9,3 +9,4 @@ We created this application to help companies assess employee burnout and raise 
 "You can check how burned out you are."
 - Link : [here](https://compfest16randomized.streamlit.app/) 
 
+Please note, there is a difference between public and private repositories. The key distinction is the use of an API key for private repositories. For security reasons, we cannot grant access to our private repository
